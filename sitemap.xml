@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dvgaba.github.io/workhealth-site/index.html</loc>
+    <loc>https://workhealths.com/index.html</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://dvgaba.github.io/workhealth-site/privacy.html</loc>
+    <loc>https://workhealths.com/privacy.html</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dvgaba.github.io/workhealth-site/terms.html</loc>
+    <loc>https://workhealths.com/terms.html</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
